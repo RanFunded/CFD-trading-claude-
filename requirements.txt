@@ -1,0 +1,4 @@
+anthropic>=0.60.0
+pandas
+numpy
+python-dotenv
